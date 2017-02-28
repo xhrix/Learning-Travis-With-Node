@@ -19,5 +19,5 @@ module.exports.functionB = function () {
  * @return {string}
  */
 module.exports.functionC = function () {
-    return 'c';
+    return 'nel prro :v';
 };
