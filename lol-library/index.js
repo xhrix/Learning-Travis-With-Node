@@ -13,3 +13,11 @@ module.exports.functionA = function () {
 module.exports.functionB = function () {
     return 'b';
 };
+
+/**
+ * Returns the letter 'c'.
+ * @return {string}
+ */
+module.exports.functionC = function () {
+    return 'c';
+};

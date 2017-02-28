@@ -9,4 +9,8 @@ describe('Lol Library', function () {
     it('#functionB must return "b"', function () {
         lolLibrary.functionB().should.equals('b');
     });
+
+    it('#functionC must return "c"', function () {
+        lolLibrary.functionC().should.equals('c');
+    });
 });
