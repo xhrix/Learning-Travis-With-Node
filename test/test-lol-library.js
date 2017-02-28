@@ -6,7 +6,7 @@ describe('Lol Library', function () {
         lolLibrary.functionA().should.equals('a');
     });
 
-    it('#functionA must return "b"', function () {
+    it('#functionB must return "b"', function () {
         lolLibrary.functionB().should.equals('b');
     });
 });
